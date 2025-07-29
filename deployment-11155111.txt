@@ -1,7 +1,0 @@
-# Deployment Information
-Chain ID: 11155111
-TestEscrowFactory: 0xf5C975E9c92A53257208e3B5573689d544b37Fd0
-Resolver: 0x2bf3a3FDE4f6fb0E6337C98AaAed2b40e1a8D5c6
-Owner: 0x158d79C1Bad0A92EA19B4220c1FEe7B8C703159B
-Deployed at block: 8867534
-Deployed at timestamp: 1753785720
