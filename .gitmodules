@@ -1,0 +1,3 @@
+[submodule "nuvex-xrpl"]
+	path = nuvex-xrpl
+	url = https://github.com/Beastdzns/nuvex-xrpl.git
