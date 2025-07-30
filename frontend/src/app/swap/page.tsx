@@ -1,14 +1,18 @@
+'use client';
+
 import Navbar from "@/components/Navbar";
+import SwapBox from "@/components/SwapBox";
+import Image from 'next/image';
+
 const Swap = () => {
     return(
-        <div className="bg-black text-white h-screen">
+        <div className="bg-black text-white min-h-screen">
             <Navbar />
-            <div className='flex h-[85%] justify-center items-center text-4xl font-mono'>
-            
-            Swapping Page
+            <div className='flex flex-col justify-center items-center py-8'>
+                <Image src='/1inch_asset.png' alt='1inch Logo' height={80} width={95} className="mb-6" />
+                <SwapBox />
+            </div>
         </div>
-        </div>
-        
     )
 }
 
