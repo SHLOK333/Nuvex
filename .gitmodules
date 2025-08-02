@@ -6,3 +6,6 @@
 [submodule "Nuvex-TWAP-HFTstrat"]
 	path = Nuvex-TWAP-HFTstrat
 	url = git@github.com:SHLOK333/Nuvex-TWAP-HFTstrat.git
+[submodule "nuvex-cardano"]
+	path = nuvex-cardano
+	url = git@github.com:SHLOK333/nuvex-cardano.git
